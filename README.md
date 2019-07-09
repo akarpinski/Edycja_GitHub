@@ -1,4 +1,4 @@
-Początek edycji repozytorium.
+### Początek edycji repozytorium.
 
 ## Welcome to GitHub Pages
 
